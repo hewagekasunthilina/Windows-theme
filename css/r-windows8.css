@@ -18,7 +18,7 @@ Secondary: #7A0218
     animation: 1s ease-out 0s normal none infinite running pulsate;
     animation-duration: 2s;
     animation-timing-function: ease-out;
-    animation-delay: 0s;
+    animation-delay: 1s;
     animation-direction: normal;
     animation-fill-mode: none;
     animation-iteration-count: infinite;
@@ -65,8 +65,8 @@ Secondary: #7A0218
     margin-top: 110px;
     position: absolute;
     z-index: 99;
-    height: 27px;
-    width: 27px;
+    height: 30px;
+    width: 30px;
     margin-left: 4px;
     padding: 2px 11px 0px 8px;
     opacity: .8;
